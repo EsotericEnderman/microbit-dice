@@ -7,10 +7,8 @@
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
-        "main.py"
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
