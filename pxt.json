@@ -2,9 +2,7 @@
     "name": "dice",
     "description": "A microbit dice.",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
