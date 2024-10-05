@@ -1,5 +1,5 @@
 
-> Open this page at [https://slqmy.github.io/dice/](https://slqmy.github.io/dice/)
+> Open this page at [https://EsotericEnderman.github.io/dice/](https://EsotericEnderman.github.io/dice/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/slqmy/dice** and import
+* search for **https://github.com/EsotericEnderman/dice** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/slqmy/dice** and click import
+* paste **https://github.com/EsotericEnderman/dice** and click import
 
 #### Metadata (used for search, rendering)
 
