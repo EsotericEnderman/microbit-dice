@@ -1,6 +1,6 @@
 {
     "name": "dice",
-    "description": "",
+    "description": "A microbit dice.",
     "dependencies": {
         "core": "*",
         "radio": "*",
