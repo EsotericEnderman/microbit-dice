@@ -32,6 +32,7 @@
         "makecode",
         "microbit",
         "pyprj",
-        "randint"
+        "randint",
+        "tsprj"
     ]
 }

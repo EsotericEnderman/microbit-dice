@@ -16,6 +16,6 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj",
+    "preferredEditor": "tsprj",
     "languageRestriction": "javascript-only"
 }
