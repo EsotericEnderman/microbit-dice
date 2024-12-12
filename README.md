@@ -1,5 +1,7 @@
 # Microbit Dice
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A microbit dice.
 
 > Open this page at [https://EsotericEnderman.github.io/microbit-dice/](https://EsotericEnderman.github.io/microbit-dice/)
